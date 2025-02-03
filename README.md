@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, moi c'est Julien Rochefolle !
 
-<!--
-**Wysper68/Wysper68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur FullStack chez [Actinvision](https://www.actinvision.com/), un cabinet de conseil spécialisé dans la **Data** à Strasbourg.  
+🚀 Actuellement, je travaille sur des projets de **Business Intelligence** en lien avec **Power BI** et **Tableau**, ainsi que sur des solutions orientées **data**.  
+📍 Avant cela, j'ai eu une expérience de **5 ans** en tant que développeur dans une agence de communication sur une stack PHP.  
 
-Here are some ideas to get you started:
+## 🛠️ Stack & Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+- **Langages** : TypeScript, JavaScript  
+- **Frameworks** : React, Next.js, Vue  
+
+### 🔧 Backend
+- **Langages** : Node.js, Python, C# .NET  
+- **Frameworks** : Express.js, Laravel  
+
+### 🏗️ DevOps & Cloud
+- **Outils** : Git, Docker  
+- **Cloud** : Azure  
+
+### 📊 Data (Phase d'apprentissage)
+- Tableau, Power BI, Talend, Snowflake  
+
+### 🎨 UI/UX & 3D
+- **Design** : Adobe XD, Photoshop, Illustrator  
+- **3D** : 3ds Max (un peu)  
+
+## 🎯 Spécialités Envisagées
+🌍 **Big Data / IA**  
