@@ -27,3 +27,9 @@
 
 ## 🎯 Spécialités Envisagées
 🌍 **Big Data / IA**  
+
+## 🎵 Centres d'intérêt
+- 🏋️ **Sport** : passionné par le sport en général notamment le football ⚽ 
+- 🏔️ **Randonnée** : toujours partant pour une balade en montagne  
+- 🎶 **Musique** : amateur de concert et de festivals
+- 🎮 **Jeux Vidéo** : joueur passionné, fan des jeux From Software et RPG en général
